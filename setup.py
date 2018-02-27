@@ -1,7 +1,7 @@
 import setuptools
 from distutils.core import setup
 
-setup(name='pyflwor',
+setup(name='pyflwor-ext',
       version='1.2',
       description=(
         'A object query system for arbitrary python objects..'

@@ -5,4 +5,5 @@ parsetab.py
 .queries
 .swork.*
 env
-
+dist/
+pyflwor_ext.egg-info/
